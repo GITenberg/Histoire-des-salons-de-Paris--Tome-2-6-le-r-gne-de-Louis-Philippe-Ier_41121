@@ -1,0 +1,46 @@
+_repo: Histoire-des-salons-de-Paris--Tome-2-6-le-r-gne-de-Louis-Philippe-Ier_41121
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Abrantès, Laure Junot, duchesse d'
+    aliases:
+    - Junot, Laure,‏ duchesse d'Abrantès
+    - Abrantes, Laure Junot, duchesse d'
+    - Abrantès, Laure Saint-Martin Permon Junot,‏  duchesse d'
+    - D'Abrantès, Laure Junot,‏ duchesse
+    birthdate: 1784
+    deathdate: 1838
+    gutenberg_agent_id: '39968'
+    url: http://www.gutenberg.org/2009/agents/39968
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Laure_Junot,_Duchess_of_Abrant%C3%A8s
+    - http://fr.wikipedia.org/wiki/Laure_Junot_d%27Abrant%C3%A8s
+description: ''
+gutenberg_bookshelf:
+- FR Biographie, Mémoires, Journal intime, Correspondance
+- FR Chroniques
+gutenberg_issued: '2012-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41121'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Salons'
+- !lcc 'DC'
+- !lcsh 'Paris (France) -- Intellectual life'
+- !lcsh 'Paris (France) -- Social life and customs'
+tableOfContents: Salon de Madame Roland -- Salon de Madame de Brienne et du cardinal
+  de Loménie -- Salon de Madame la duchesse de Chartres, au Palais-Royal -- Salon
+  de Madame la comtesse de Genlis -- Salon du marquis de Condorcet -- Salon de Madame
+  la comtesse de Custine (femme du  général) -- L'atelier de Madame de Montesson,
+  à Bièvre -- Salon de Madame de Staël, ambassadrice de Suède.
+title: "Histoire des salons de Paris (Tome 2/6)\r\nTableaux et portraits du grand\
+  \ monde sous Louis XVI, Le Directoire, le Consulat et l'Empire, la Restauration\
+  \ et le règne de Louis-Philippe Ier"
+url: http://www.gutenberg.org/ebooks/41121
